@@ -1,5 +1,5 @@
 # taylorswift
 
-![taylorswift](taylorvideo480.mov)
+![taylorswiftvideo](taylorvideo480 / MOV)
 
 ![taylorswift](taylor.png)
